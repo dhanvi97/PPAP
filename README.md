@@ -10,4 +10,4 @@ As of now
 * Soham Shanbhag
 
 ## License
-[https://opensource.org/licenses/MIT](MIT)
+[MIT](https://opensource.org/licenses/MIT)
