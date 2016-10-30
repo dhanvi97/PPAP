@@ -1,4 +1,4 @@
-# Techfest android app 2416
+# Techfest android app 2k16
 
 Repo for the official 2k16 IIT Bombay Techfest app
 
